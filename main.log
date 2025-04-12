@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.4.9)  10 APR 2025 08:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.4.9)  12 APR 2025 19:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -420,31 +420,56 @@ Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
 \l__lipsum_a_int=\count320
 \l__lipsum_b_int=\count321
  (c:/texlive/2025/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex))
-LaTeX Font Info:    Trying to load font information for T1+ppl on input line 20.
+LaTeX Font Info:    Trying to load font information for T1+ppl on input line 22.
  (c:/texlive/2025/texmf-dist/tex/latex/psnfss/t1ppl.fd
 File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
 ) (./main.aux
 Package babel Info: 'french' activates 'french' shorthands.
 (babel)             Reported  on input line 8.
+
+
+LaTeX Warning: Label `fig:image1' multiply defined.
+
+
+LaTeX Warning: Label `fig:image2' multiply defined.
+
+
+LaTeX Warning: Label `fig:image1' multiply defined.
+
+
+LaTeX Warning: Label `fig:image2' multiply defined.
+
+
+LaTeX Warning: Label `fig:image1' multiply defined.
+
+
+LaTeX Warning: Label `fig:image2' multiply defined.
+
+
+LaTeX Warning: Label `fig:exemple_image' multiply defined.
+
+
+LaTeX Warning: Label `tab:exemple_tableau' multiply defined.
+
 )
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Info: Redefining \degres on input line 20.
-LaTeX Info: Redefining \up on input line 20.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Info: Redefining \degres on input line 22.
+LaTeX Info: Redefining \up on input line 22.
  (c:/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count322
@@ -504,40 +529,40 @@ Package caption Info: End \AtBeginDocument code.
 <media/logo-enit-2454399073.png, id=4, 2007.5pt x 860.21375pt>
 File: media/logo-enit-2454399073.png Graphic file (type png)
 <use media/logo-enit-2454399073.png>
-Package pdftex.def Info: media/logo-enit-2454399073.png  used on input line 25.
+Package pdftex.def Info: media/logo-enit-2454399073.png  used on input line 27.
 (pdftex.def)             Requested size: 182.09486pt x 78.01967pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 25--26
+Underfull \hbox (badness 10000) in paragraph at lines 27--28
 
  []
 
-<media/page de garde.png, id=5, 1090.82532pt x 895.09406pt>
-File: media/page de garde.png Graphic file (type png)
-<use media/page de garde.png>
-Package pdftex.def Info: media/page de garde.png  used on input line 30.
-(pdftex.def)             Requested size: 597.50787pt x 490.29552pt.
+<media/plaquecarbonne.jpg, id=5, 903.375pt x 602.25pt>
+File: media/plaquecarbonne.jpg Graphic file (type jpg)
+<use media/plaquecarbonne.jpg>
+Package pdftex.def Info: media/plaquecarbonne.jpg  used on input line 32.
+(pdftex.def)             Requested size: 597.50787pt x 398.35924pt.
 
 
 [1
 
-{c:/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc} <./media/logo-enit-2454399073.png> <./media/page de garde.png>] (./main.toc
-LaTeX Font Info:    Trying to load font information for OT1+ppl on input line 5.
+{c:/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc} <./media/logo-enit-2454399073.png> <./media/plaquecarbonne.jpg>] (./main.toc
+LaTeX Font Info:    Trying to load font information for OT1+ppl on input line 4.
  (c:/texlive/2025/texmf-dist/tex/latex/psnfss/ot1ppl.fd
 File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
 )
-LaTeX Font Info:    Trying to load font information for OML+zplm on input line 5.
+LaTeX Font Info:    Trying to load font information for OML+zplm on input line 4.
  (c:/texlive/2025/texmf-dist/tex/latex/psnfss/omlzplm.fd
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
-LaTeX Font Info:    Trying to load font information for OMS+zplm on input line 5.
+LaTeX Font Info:    Trying to load font information for OMS+zplm on input line 4.
  (c:/texlive/2025/texmf-dist/tex/latex/psnfss/omszplm.fd
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
-LaTeX Font Info:    Trying to load font information for OMX+zplm on input line 5.
+LaTeX Font Info:    Trying to load font information for OMX+zplm on input line 4.
  (c:/texlive/2025/texmf-dist/tex/latex/psnfss/omxzplm.fd
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
-LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 5.
+LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 4.
  (c:/texlive/2025/texmf-dist/tex/latex/psnfss/ot1zplm.fd
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 ))
@@ -548,44 +573,160 @@ File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 
 File: media/logo-enit-2454399073.png Graphic file (type png)
 <use media/logo-enit-2454399073.png>
-Package pdftex.def Info: media/logo-enit-2454399073.png  used on input line 54.
+Package pdftex.def Info: media/logo-enit-2454399073.png  used on input line 56.
 (pdftex.def)             Requested size: 85.35826pt x 36.56844pt.
 [1]
+Overfull \hbox (6.0pt too wide) in paragraph at lines 80--87
+[]|[]| 
+ []
+
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 88--98
+[]|[]| 
+ []
+
+
+Overfull \hbox (1.44963pt too wide) in paragraph at lines 68--101
+ [][] 
+ []
+
+LaTeX Font Info:    Trying to load font information for TS1+ppl on input line 112.
+(c:/texlive/2025/texmf-dist/tex/latex/psnfss/ts1ppl.fd
+File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
+)
+
 File: media/logo-enit-2454399073.png Graphic file (type png)
 <use media/logo-enit-2454399073.png>
-Package pdftex.def Info: media/logo-enit-2454399073.png  used on input line 69.
+Package pdftex.def Info: media/logo-enit-2454399073.png  used on input line 121.
+(pdftex.def)             Requested size: 85.35826pt x 36.56844pt.
+[2]
+<media/K_P1_layout_12042025.png, id=21, 769.37437pt x 822.82407pt>
+File: media/K_P1_layout_12042025.png Graphic file (type png)
+<use media/K_P1_layout_12042025.png>
+Package pdftex.def Info: media/K_P1_layout_12042025.png  used on input line 125.
+(pdftex.def)             Requested size: 227.62206pt x 243.4341pt.
+<media/K_P1_L1_12042025.png, id=23, 944.02687pt x 884.55469pt>
+File: media/K_P1_L1_12042025.png Graphic file (type png)
+<use media/K_P1_L1_12042025.png>
+Package pdftex.def Info: media/K_P1_L1_12042025.png  used on input line 137.
+(pdftex.def)             Requested size: 225.3436pt x 211.1367pt.
+
+Underfull \hbox (badness 3735) in paragraph at lines 138--138
+[]\T1/ppl/m/sc/12 Figure 2 \T1/ppl/m/n/12 ^^U |Couche 1, plaque car-rée
+ []
+
+<media/K_P1_L2_12042025.png, id=24, 947.03813pt x 867.24pt>
+File: media/K_P1_L2_12042025.png Graphic file (type png)
+<use media/K_P1_L2_12042025.png>
+Package pdftex.def Info: media/K_P1_L2_12042025.png  used on input line 144.
+(pdftex.def)             Requested size: 225.3436pt x 206.3554pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: media/K_P1_L2_12042025.png Graphic file (type png)
+<use media/K_P1_L2_12042025.png>
+Package pdftex.def Info: media/K_P1_L2_12042025.png  used on input line 155.
+(pdftex.def)             Requested size: 225.3436pt x 206.3554pt.
+
+Underfull \hbox (badness 3735) in paragraph at lines 156--156
+[]\T1/ppl/m/sc/12 Figure 4 \T1/ppl/m/n/12 ^^U |Couche 2, plaque car-rée
+ []
+
+File: media/K_P1_L2_12042025.png Graphic file (type png)
+<use media/K_P1_L2_12042025.png>
+Package pdftex.def Info: media/K_P1_L2_12042025.png  used on input line 162.
+(pdftex.def)             Requested size: 225.3436pt x 206.3554pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+
+File: media/logo-enit-2454399073.png Graphic file (type png)
+<use media/logo-enit-2454399073.png>
+Package pdftex.def Info: media/logo-enit-2454399073.png  used on input line 167.
+(pdftex.def)             Requested size: 85.35826pt x 36.56844pt.
+[3 <./media/K_P1_layout_12042025.png>]
+
+File: media/logo-enit-2454399073.png Graphic file (type png)
+<use media/logo-enit-2454399073.png>
+Package pdftex.def Info: media/logo-enit-2454399073.png  used on input line 167.
+(pdftex.def)             Requested size: 85.35826pt x 36.56844pt.
+[4 <./media/K_P1_L1_12042025.png> <./media/K_P1_L2_12042025.png>]
+<media/K_P1_L3_12042025.png, id=34, 932.73468pt x 862.72313pt>
+File: media/K_P1_L3_12042025.png Graphic file (type png)
+<use media/K_P1_L3_12042025.png>
+Package pdftex.def Info: media/K_P1_L3_12042025.png  used on input line 174.
+(pdftex.def)             Requested size: 225.3436pt x 208.42683pt.
+
+Underfull \hbox (badness 3735) in paragraph at lines 175--175
+[]\T1/ppl/m/sc/12 Figure 6 \T1/ppl/m/n/12 ^^U |Couche 3, plaque car-rée
+ []
+
+File: media/K_P1_L2_12042025.png Graphic file (type png)
+<use media/K_P1_L2_12042025.png>
+Package pdftex.def Info: media/K_P1_L2_12042025.png  used on input line 181.
+(pdftex.def)             Requested size: 225.3436pt x 206.3554pt.
+<media/K_P1_L4_12042025.png, id=35, 931.22906pt x 846.16125pt>
+File: media/K_P1_L4_12042025.png Graphic file (type png)
+<use media/K_P1_L4_12042025.png>
+Package pdftex.def Info: media/K_P1_L4_12042025.png  used on input line 192.
+(pdftex.def)             Requested size: 225.3436pt x 204.74841pt.
+
+Underfull \hbox (badness 3735) in paragraph at lines 193--193
+[]\T1/ppl/m/sc/12 Figure 8 \T1/ppl/m/n/12 ^^U |Couche 4, plaque car-rée
+ []
+
+File: media/K_P1_L2_12042025.png Graphic file (type png)
+<use media/K_P1_L2_12042025.png>
+Package pdftex.def Info: media/K_P1_L2_12042025.png  used on input line 199.
+(pdftex.def)             Requested size: 225.3436pt x 206.3554pt.
+File: media/logo-enit-2454399073.png Graphic file (type png)
+<use media/logo-enit-2454399073.png>
+Package pdftex.def Info: media/logo-enit-2454399073.png  used on input line 217.
 (pdftex.def)             Requested size: 318.66948pt x 136.54756pt.
 
 
 File: media/logo-enit-2454399073.png Graphic file (type png)
 <use media/logo-enit-2454399073.png>
-Package pdftex.def Info: media/logo-enit-2454399073.png  used on input line 99.
+Package pdftex.def Info: media/logo-enit-2454399073.png  used on input line 220.
 (pdftex.def)             Requested size: 85.35826pt x 36.56844pt.
-[2]
+[5
+
+ <./media/K_P1_L3_12042025.png> <./media/K_P1_L4_12042025.png>]
 
 File: media/logo-enit-2454399073.png Graphic file (type png)
 <use media/logo-enit-2454399073.png>
-Package pdftex.def Info: media/logo-enit-2454399073.png  used on input line 109.
+Package pdftex.def Info: media/logo-enit-2454399073.png  used on input line 249.
 (pdftex.def)             Requested size: 85.35826pt x 36.56844pt.
-[3] (./main.aux)
+[6]
+
+File: media/logo-enit-2454399073.png Graphic file (type png)
+<use media/logo-enit-2454399073.png>
+Package pdftex.def Info: media/logo-enit-2454399073.png  used on input line 257.
+(pdftex.def)             Requested size: 85.35826pt x 36.56844pt.
+[7] (./main.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-03-26>
  ***********
+
+
+LaTeX Warning: There were multiply-defined labels.
+
  ) 
 Here is how much of TeX's memory you used:
- 17662 strings out of 469625
- 350366 string characters out of 5475163
- 803833 words of memory out of 5000000
- 44190 multiletter control sequences out of 15000+600000
- 648927 words of font info for 75 fonts, out of 8000000 for 9000
+ 17734 strings out of 469625
+ 352064 string characters out of 5475163
+ 808940 words of memory out of 5000000
+ 44253 multiletter control sequences out of 15000+600000
+ 652359 words of font info for 82 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,15n,91p,476b,604s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2025/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb><c:/texlive/2025/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on main.pdf (4 pages, 173037 bytes).
+ 84i,22n,91p,476b,604s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2025/texmf-dist/fonts/type1/public/mathpazo/fplmri.pfb><c:/texlive/2025/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb><c:/texlive/2025/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb>
+Output written on main.pdf (8 pages, 668680 bytes).
 PDF statistics:
- 36 PDF objects out of 1000 (max. 8388607)
- 21 compressed objects within 1 object stream
+ 64 PDF objects out of 1000 (max. 8388607)
+ 34 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 23 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 48 words of extra memory for PDF output out of 10000 (max. 10000000)
 

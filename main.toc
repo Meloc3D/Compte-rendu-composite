@@ -1,9 +1,13 @@
 \babel@toc {french}{}\relax 
 \contentsline {section}{\numberline {1}Introduction}{2}{}%
-\contentsline {section}{\numberline {2}Matériel et Méthodes}{2}{}%
-\contentsline {section}{\numberline {3}Résultats}{2}{}%
-\contentsline {subsection}{\numberline {3.1}Exemple d'image avec légende}{2}{}%
-\contentsline {subsection}{\numberline {3.2}Exemple de tableau}{2}{}%
-\contentsline {section}{\numberline {4}Discussion}{2}{}%
-\contentsline {section}{\numberline {5}Conclusion}{3}{}%
-\contentsline {section}{\numberline {6}Test de corps de texte}{3}{}%
+\contentsline {section}{\numberline {2}Plaque 4 plis sans symétrie mirroir sous chargement mécanique}{2}{}%
+\contentsline {subsection}{\numberline {2.1}Hypothèses nécessaires à la mise en place du modèle numérique}{2}{}%
+\contentsline {subsection}{\numberline {2.2}Mise en place du modèle numérique sous Abaqus}{3}{}%
+\contentsline {section}{\numberline {3}Résultats obtenus sous Abaqus}{3}{}%
+\contentsline {section}{\numberline {4}Résultats obtenus avec la calculatrice composite sous Tableur}{5}{}%
+\contentsline {section}{\numberline {5}Résultats}{6}{}%
+\contentsline {subsection}{\numberline {5.1}Exemple d'image avec légende}{6}{}%
+\contentsline {subsection}{\numberline {5.2}Exemple de tableau}{6}{}%
+\contentsline {section}{\numberline {6}Discussion}{6}{}%
+\contentsline {section}{\numberline {7}Conclusion}{6}{}%
+\contentsline {section}{\numberline {8}Test de corps de texte}{6}{}%
