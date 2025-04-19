@@ -1,22 +1,23 @@
 \babel@toc {french}{}\relax 
 \contentsline {section}{\numberline {1}Introduction}{2}{}%
-\contentsline {section}{\numberline {2}Plaque 4 plis sans symétrie mirroir sous chargement mécanique}{3}{}%
+\contentsline {section}{\numberline {2}Plaque 4 plis sans symétrie miroir sous chargement mécanique}{3}{}%
 \contentsline {subsection}{\numberline {2.1}Hypothèses nécessaires à la mise en place du modèle numérique}{3}{}%
 \contentsline {subsection}{\numberline {2.2}Mise en place du modèle numérique sous Abaqus}{3}{}%
 \contentsline {subsection}{\numberline {2.3}Résultats obtenus sous Abaqus}{4}{}%
 \contentsline {subsection}{\numberline {2.4}Résultats obtenus avec la feuille de calcul composite}{6}{}%
 \contentsline {subsection}{\numberline {2.5}Conclusion vis-à-vis du dimensionnement de la plaque 1}{7}{}%
-\contentsline {subsection}{\numberline {2.6}Optimisation de la plaque pour répondre au cahier des charges}{7}{}%
-\contentsline {section}{\numberline {3}Plaque 4 plis avec symétrie mirroir sous chargement mécanique}{8}{}%
+\contentsline {subsection}{\numberline {2.6}Optimisation de la plaque pour répondre au cahier des charges.}{7}{}%
+\contentsline {section}{\numberline {3}Plaque 4 plis avec symétrie miroir sous chargement mécanique}{8}{}%
 \contentsline {subsection}{\numberline {3.1}Hypothèses nécessaires à la mise en place du modèle numérique}{8}{}%
 \contentsline {subsection}{\numberline {3.2}Mise en place du modèle numérique sous Abaqus}{8}{}%
-\contentsline {subsection}{\numberline {3.3}Résultats obtenus sous Abaqus}{8}{}%
+\contentsline {subsection}{\numberline {3.3}Résultats obtenus sous Abaqus}{9}{}%
 \contentsline {subsection}{\numberline {3.4}Résultats obtenus avec la feuille de calcul composite}{11}{}%
 \contentsline {subsection}{\numberline {3.5}Conclusion vis-à-vis du dimensionnement de la plaque 2}{11}{}%
 \contentsline {subsection}{\numberline {3.6}Optimisation de la plaque pour répondre au cahier des charges}{11}{}%
 \contentsline {section}{\numberline {4}Plaque en acier sous chargement mécanique}{12}{}%
 \contentsline {subsection}{\numberline {4.1}Hypothèses nécessaires à la mise en place du modèle numérique}{12}{}%
-\contentsline {subsection}{\numberline {4.2}Mise en place du modèle numérique sous Abaqus}{12}{}%
+\contentsline {subsection}{\numberline {4.2}Mise en place du modèle numérique sous Abaqus}{13}{}%
 \contentsline {subsection}{\numberline {4.3}Résultats obtenus sous Abaqus}{13}{}%
 \contentsline {subsection}{\numberline {4.4}Comparaison avec les résultats des autre modèles}{13}{}%
-\contentsline {section}{\numberline {5}Conclusion}{13}{}%
+\contentsline {subsection}{\numberline {4.5}Critique des modèles de calculs}{14}{}%
+\contentsline {section}{\numberline {5}Conclusion}{14}{}%
